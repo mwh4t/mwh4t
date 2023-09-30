@@ -1,12 +1,16 @@
 <h1 align="center">qq, я какой-то нн с ником <a href="https://github.com/mwh4t" target="_blank">mwh4t</a>
 
-![](https://komarev.com/ghpvc/?username=mwh4t&color=blueviolet&style=flat)</h1>
+![](https://komarev.com/ghpvc/?username=mwh4t&color=blueviolet&style=flat)
+</h1>
 
-<h3 align="center">я обязательно вырасту...
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5kMGptNmxocTBsMTkxbXl2YmFoN2o3cXZnc2h0MWUwZ2JxdHhheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uVEC3Rq3UyBI7FtoB6/giphy.gif" width="50">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5kMGptNmxocTBsMTkxbXl2YmFoN2o3cXZnc2h0MWUwZ2JxdHhheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uVEC3Rq3UyBI7FtoB6/giphy.gif" width="50">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5kMGptNmxocTBsMTkxbXl2YmFoN2o3cXZnc2h0MWUwZ2JxdHhheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uVEC3Rq3UyBI7FtoB6/giphy.gif" width="50"></h3>
+<p align="center">я обязательно вырасту... 
+  <img src="https://ic.wampi.ru/2023/09/30/ezgif-1-e42eda3ca1.gif" width="40">
+  <img src="https://ic.wampi.ru/2023/09/30/ezgif-1-e42eda3ca1.gif" width="40">
+  <img src="https://ic.wampi.ru/2023/09/30/ezgif-1-e42eda3ca1.gif" width="40">
+</p>
 
 <p align="center">
-<a href="https://t.me/mwh4t"><img src="https://im.wampi.ru/2023/06/20/telegram_button_icon_151837.png" width="70" alt="Telegram"></a>
+<a href="https://t.me/mwh4t"><img src="https://img.shields.io/badge/-Telegram-161b22?style=flat&logo=telegram&logoColor=27A0D9" alt="Telegram"></a>
+<a href="https://discordapp.com/users/307134265500368896/"><img src="https://img.shields.io/badge/-Discord-161b22?style=flat&logo=discord&logoColor=5765f2" alt="Discord"></a>
+<a href="https://vk.com/mwh4t"><img src="https://img.shields.io/badge/-VKontakte-161b22?style=flat&logo=vk&logoColor=0277ff" alt="VKontakte"></a>
 </p>
